@@ -1,2 +1,2 @@
-##Assignment:DOM
-#using html css and javScript
+Assignment:DOM
+using html css and javScript
